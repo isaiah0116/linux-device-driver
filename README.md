@@ -1,4 +1,4 @@
-Project Description
+# Project Description
 
 In this project we implement a userspace device driver that connects to and reads data from the device in the USB subsystem, interprets the data to determine the current device state, and routes it back into the Linux input system as a conventional joystick.
 
